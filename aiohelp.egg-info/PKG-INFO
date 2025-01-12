@@ -1,0 +1,22 @@
+Metadata-Version: 2.2
+Name: aiohelp
+Version: 0.1.0
+Summary: Допоміжна бібліотека для роботи з aiogram
+Home-page: https://t.me/+be4T9FkKBeczMzUy
+Author: Splaueef
+Author-email: Splaueef@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: aiogram>=3.0
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
